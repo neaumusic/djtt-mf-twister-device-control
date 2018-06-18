@@ -1,21 +1,23 @@
+DJ Tech Tools (DJTT) Midi Fighter Twister
 
-DJ Tech Tools - Midi Fighter Twister
---
+Adds lockable blue hand functionality for all rows, using push turn to control knobs 5, 6, 7, 8
 
-Adds blue hand functionality for up to 6 Live devices.
+---
 
-Supported since Live 6 (Live 10+). No more manually mapping knobs!
+Supported since Live 6 (Live 10+).
 
-Intended for use with Twister's innovative 'shift encoder' functionality
+Utilizes 16 UserConfiguration.txt files, see default example in following locations:
 
-1. Determine hardware rows to dedicate for device control
-2. Using Midi Fighter Utility, assign Shift Encoder (Hold) for each row
-3. Open Live preferences, choose corresponding row's Control Script
+    Mac: HD:/Users/[Username]/Library/Preferences/Ableton/Live x.x.x/User Remote Scripts
+    Windows: C:\Users\[Username]\AppData\Roaming\Ableton\Live x.x.x\User Remote Scripts
 
-**Rows should now be tracking the focused device. At any time, right click and lock device to row**
+https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script
+
+Change folder names to rename the control scripts.
+
+---
 
 <img src='./images/blue-hand-lock-to-row.png' width='480' />
 <img src='./images/control-surface-row.png' width='480' />
-<img src='./images/user-configuration.png' width='640' />
-<img src='./images/ableton-documentation.png' width='640' />
 <img src='./images/midi-fighter-utility.png' width='640' />
+
