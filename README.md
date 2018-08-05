@@ -8,7 +8,7 @@ Supported since Live 6 (Live 10+).
 
 Utilizes 16 UserConfiguration.txt files, see default example in following locations:
 
-    Mac: HD:/Users/[Username]/Library/Preferences/Ableton/Live x.x.x/Preferences\User Remote Scripts
+    Mac: HD:/Users/[Username]/Library/Preferences/Ableton/Live x.x.x/User Remote Scripts
     Windows: C:\Users\[Username]\AppData\Roaming\Ableton\Live x.x.x\Preferences\User Remote Scripts
 
 https://help.ableton.com/hc/en-us/articles/206240184-Creating-your-own-Control-Surface-script
