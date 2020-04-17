@@ -14,7 +14,3 @@ Change folder names to rename the control scripts.
 <img src='./images/blue-hand-lock-to-row.png' width='480' />
 <img src='./images/control-surface-row.png' width='480' />
 <img src='./images/midi-fighter-utility.png' width='640' />
-
-To edit (if you didn't want push turn, for example):
-1. get Midi Monitor app with 'decimal' preferences and trigger it using your controller
-2. know that Ableton config channels are zero-based, but Midi Monitor is not
